@@ -1,44 +1,44 @@
 🔍 Retrieval-Augmented Generation (RAG) Framework with LangChain, ChromaDB & Streamlit
 This project is a simple yet powerful Retrieval-Augmented Generation (RAG) framework designed to enable intelligent question-answering over custom documents. It integrates cutting-edge components including:
 
-🧠 LangChain for orchestration
+   🧠 LangChain for orchestration
 
-📦 ChromaDB as the vector store
+   📦 ChromaDB as the vector store
 
-🔤 OpenAI Embeddings for semantic understanding
+   🔤 OpenAI Embeddings for semantic understanding
 
-🤖 GPT-based LLMs for response generation
+   🤖 GPT-based LLMs for response generation
 
-🖥️ Streamlit for a user-friendly web interface
+   🖥️ Streamlit for a user-friendly web interface
 
 💡 Features
-Upload any PDF document
+  Upload any PDF document
 
-Automatic text chunking and semantic embedding
+  Automatic text chunking and semantic embedding
 
-Efficient document retrieval using vector search
+  Efficient document retrieval using vector search
 
-Contextual answers powered by large language models
+  Contextual answers powered by large language models
 
-Interactive question-answering via web UI
+  Interactive question-answering via web UI
 
 📦 Technologies Used
-Python
+  Python
 
-LangChain
+  LangChain
 
-OpenAI (Embeddings, Chat models)
+  OpenAI (Embeddings, Chat models)
 
-ChromaDB
+  ChromaDB
 
-Streamlit
+  Streamlit
 
-PDFPlumber
+  PDFPlumber
 
 🚀 Getting Started
-Upload your PDF document through the web interface.
+  Upload your PDF document through the web interface.
 
-Ask questions directly based on your document content.
+  Ask questions directly based on your document content.
 
-Receive accurate and contextual answers — powered by RAG.
+  Receive accurate and contextual answers — powered by RAG.
 
